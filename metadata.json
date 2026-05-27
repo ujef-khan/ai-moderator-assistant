@@ -1,0 +1,6 @@
+{
+  "name": "AI Moderator Assistant",
+  "description": "An advanced, full-stack Gemini-powered auto-moderator and community safety dashboard for Reddit built on Devvit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
